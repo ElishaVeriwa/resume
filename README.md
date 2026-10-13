@@ -56,5 +56,5 @@ Dynamic Financial & Data Analyst with over 8 years of experience in General Ledg
 
 ---
 
-## 📌 References
-*Available upon request.*
+## 📌 References *
+[Graham Mangota](https://www.linkedin.com/in/graham-mangota-18b86439?trk=blended-type ahead)
