@@ -25,8 +25,18 @@ Dynamic Financial & Data Analyst with over 8 years of experience in General Ledg
 
 ## 💼 Professional Experience
 
+### **Trade Champions (Pvt) Ltd** | Harare, Zimbabwe
+* **Business Analyst** *(Part-Time)*
+  * Customer and Suppler Engagements.
+  * Supplier Evaluation and Analytics.
+  * Sales and Revenue optimization strategy analytics and formulation.
+
+### **Trent Primary School** | Harare, Zimbabwe
+* **Financial Systems Consultant** *(Sep 2024 – Present)*
+  * Built and progressively maintaining a real-time cash flow management system.
+
 ### **National Foods Logistics (Pvt) Ltd** | Harare, Zimbabwe
-* **Business Analyst** *(Feb 2024 – Present)*
+* **Business Analyst** *(Feb 2024 – Aug 2024)*
   * Analyze operational and financial data to optimize business processes and fleet productivity.
   * Develop dynamic reports and automated workflows using data analytics tools (SQL, R, Power BI).
 * **Acting Financial Accountant** *(May 2023 – Jan 2024)*
@@ -49,8 +59,8 @@ Dynamic Financial & Data Analyst with over 8 years of experience in General Ledg
 
 ## 🎓 Education & Qualifications
 
-* **Master of Business Administration (MBA)** | University of the People *(2023 – 2025)*
-* **Master of Science in Big Data Analytics** | Chinhoyi University of Technology *(2022 – 2024)*
+* **Master of Business Administration (MBA)** | University of the People *(2023 – Present)*
+* **Master of Science in Big Data Analytics** | Chinhoyi University of Technology *(2022 – Present)*
 * **Post Graduate Diploma in Applied Taxation (Part 1)** | Institute of Certified Tax Accountants (ICTA)
 * **Bachelor of Commerce Honours Degree in Business Management (Finance)** | Midlands State University *(Class 2.1, 2016)*
 
