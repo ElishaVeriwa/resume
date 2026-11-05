@@ -67,4 +67,7 @@ Dynamic Financial and Data Analyst with over 8 years of experience in General Le
 ---
 
 ## 📌 References *
-[Graham Mangota](https://www.linkedin.com/in/graham-mangota-18b86439?trk=blended-type ahead)
+Mr. S Mapondo
+Accountant, Whelson Transport
+smapondo@whelson.co.zw | +263 242 751667-9
+
