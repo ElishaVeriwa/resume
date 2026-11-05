@@ -2,34 +2,34 @@
 **Financial & Data Analyst | Accounting Professional**
 
 📍 4737 Manyame Park, Chitungwiza, Harare, Zimbabwe  
-📞 +263 776 321 224 / +263 717 777 682 | ✉️ everiwa@gmail.com  
+📞 +263 776 321 224 / +263 717 777 682 | ✉️ everiwa@hotmail.com | Male
 
 ---
 
 ## 🚀 Professional Summary
-Dynamic Financial & Data Analyst with over 8 years of experience in General Ledger Bookkeeping, Financial Reporting, and Process Automation across the Transport, Logistics, and FMCG sectors. Proven track record in delivering precise financial statements, tax compliance, and automated analytics solutions using Power Query, SQL, R, and Python. Experienced in optimizing workflows, enhancing compliance, and supporting strategic decision-making through data-driven financial analysis.
+Dynamic Financial and Data Analyst with over 8 years of experience in General Ledger Bookkeeping, Financial Reporting, and Process Automation across the Transport, Logistics, and FMCG sectors. Proven track record in delivering precise financial statements, tax compliance, and automated analytics solutions using Excel(Power Query, VBA), SQL, R, and Python. Experienced in optimising workflows, enhancing compliance, and supporting strategic decision making through data-driven financial analysis.
 
 ---
 
-## 🛠️ Technical & Domain Skills
+## 🛠️ Technical and Domain Skills
 
-| Category | Competencies & Tools |
+| Category | Competencies and Tools |
 | :--- | :--- |
 | **Financial Reporting** | General Ledger Reconciliations, Trial Balance, Income Statements, Balance Sheets, Asset Management, Budgeting |
-| **Tax & Compliance** | ZIMRA Returns (PAYE, VAT, Withholding Tax, QPDs), Audit Reconciliations, Statutory Deductions |
-| **Data Science & Automation** | R (Tidyverse, ggplot2, Shiny, RMarkdown), Python (Pandas, Seaborn, SQLite), Power Query / M, MS SQL Server, Power BI |
-| **ERP & Enterprise Systems** | SAGE / Pastel Evolution, SAP ERP (FI Module), Advanced MS Excel & VBA |
-| **Operations & Logistics** | Import/Export Administration, Cross-Border Supplier Payments, Fleet Cost Analysis, Inventory Valuation |
+| **Tax and Compliance** | ZIMRA Returns (PAYE, VAT, Withholding Tax, QPDs), Audit Reconciliations, Statutory Deductions |
+| **Data Science and Automation** | R (Tidyverse, ggplot2, Shiny, RMarkdown), Python (Pandas, Seaborn, SQLite), Power Query / M, MS SQL Server, Power BI |
+| **ERP and Enterprise Systems** | SAGE / Pastel Evolution, SAP ERP (FI Module), Advanced MS Excel and VBA |
+| **Operations and Logistics** | Import/Export Administration, Cross-Border Supplier Payments, Fleet Cost Analysis, Inventory Valuation |
 
 ---
 
 ## 💼 Professional Experience
 
 ### **Trade Champions (Pvt) Ltd** | Harare, Zimbabwe
-* **Business Analyst** *(Part-Time)*
+* **Sales and Analyst Officer** *(Part-Time)*
   * Customer and Suppler Engagements.
   * Supplier Evaluation and Analytics.
-  * Sales and Revenue optimization strategy analytics and formulation.
+  * Sales and Revenue optimisation strategy analytics and formulation.
 
 ### **Trent Primary School** | Harare, Zimbabwe
 * **Financial Systems Consultant** *(Sep 2024 – Present)*
